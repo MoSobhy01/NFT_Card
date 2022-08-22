@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/MoSobhy01/
+- Solution URL: [GitHub Repo](https://github.com/MoSobhy01/)
 - Live Site URL: [NFT Card](https://mosobhy01.github.io/NFT_Card)
 
 ## My process
