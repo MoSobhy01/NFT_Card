@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repo](https://github.com/MoSobhy01/
+- Live Site URL: [NFT Card](https://mosobhy01.github.io/NFT_Card)
 
 ## My process
 
@@ -43,7 +43,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Mahmoud Sobhy](https://github.com/MoSobhy01)
+- Website - [Mahmoud Sobhy](https://github.com/MoSobhy01/NFT_Card)
 - Frontend Mentor - [@MoSobhy01](https://www.frontendmentor.io/profile/MoSobhy01)
 
 
